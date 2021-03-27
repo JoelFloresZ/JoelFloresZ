@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelFloresZ
 - 👀 I’m interested in in the world of web development.
-- 🌱 I’m currently learning some backend languages like php and Fronend side javacript with vue js
+- 🌱 I’m currently learning some backend languages like php with Laravel and Frontend side javacript with vue js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
